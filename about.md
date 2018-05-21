@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there,
 
-### More Information
+My name is Tri Dang, currently living in Saigon, Vietnam. I am a software developer interested in Python, Django, AI, Blockchain and IoT. I love to use technologies to solve real-world problems.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This site is the personal corner to record my experiences in learning and working.
